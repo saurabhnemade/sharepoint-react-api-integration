@@ -1,3 +1,9 @@
+
+# Sharepoint integration attempt
+
+Source: https://www.c-sharpcorner.com/article/implementing-sharepoint-operations-using-react-js-part-one/
+https://www.c-sharpcorner.com/article/implementing-sharepoint-operations-using-react-js-part-two/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
